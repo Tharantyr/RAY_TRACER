@@ -1,0 +1,5 @@
+﻿  renderer.cpp
+h:\documents\universiteit\advanced graphics\magr\renderer.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+h:\documents\universiteit\advanced graphics\magr\renderer.cpp(86): warning C4244: 'initializing': conversion from 'float' to 'Tmpl8::Pixel', possible loss of data
+     Creating library H:\Documents\Universiteit\Advanced Graphics\magr\Tmpl2017-02.lib and object H:\Documents\Universiteit\Advanced Graphics\magr\Tmpl2017-02.exp
+  tmpl_2017-02.vcxproj -> H:\Documents\Universiteit\Advanced Graphics\magr\Tmpl2017-02.exe
